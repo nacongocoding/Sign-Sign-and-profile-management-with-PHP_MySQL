@@ -1,0 +1,45 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+.navbar-custom{
+    background-color: #FFC312 !important;
+    font-weight: bold;
+    
+
+}
+
+.navbar-custom a{
+    color:#fff !important;
+}
+
+.navbar-custom a:hover{
+    color:#fff;
+}
+
+
+
+
+.card-custom{
+    border-color: #FFC312;
+}
+
+.card-header-custom{
+    background-color: #FFC312;
+}
+
+.card-header-custom a{
+    color: #fff;
+}
+
+.color-set{
+    background-color:#FFC312; 
+    color:white;
+}
+
+.color-set-default{
+    background-color: #343a40;
+     color:white;
+}
+
+
+
